@@ -1,15 +1,15 @@
 {
-  "name": "madnest/madzipper",
+  "name": "pataro97/madzipper",
   "description": "Easier zip file handling for Laravel applications.",
   "type": "library",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "keywords": [
     "zip",
     "php",
     "laravel",
     "ziparchive"
   ],
-  "homepage": "https://github.com/madnest/madzipper",
+  "homepage": "https://github.com/pataro97/madzipper",
   "license": "MIT",
   "authors": [
     {

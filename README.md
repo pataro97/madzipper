@@ -2,14 +2,14 @@
 
 This is a simple Wrapper around the ZipArchive methods with some handy functions.
 
-[![Build Status](https://github.com/madnest/madzipper/workflows/Tests/badge.svg)](https://github.com/madnest/madzipper/actions)
+[![Build Status](https://github.com/pataro97/madzipper/workflows/Tests/badge.svg)](https://github.com/pataro97/madzipper/actions)
 
 ## Installation
 
-1. `madnest/madzipper` can be installed by running:
+1. `pataro97/madzipper` can be installed by running:
 
 ```bash
-composer require madnest/madzipper
+composer require pataro97/madzipper
 ```
 
 2. Optionally when using with Laravel, go to `app/config/app.php`
