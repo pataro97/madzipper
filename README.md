@@ -22,11 +22,13 @@ You can now access Madzipper with the `Madzipper` alias.
 
 | Package  | Laravel       | PHP    |
 | :------- | :------------ | :----- |
-| **v1.6** | `11.*` `12.*` | `^8.2` |
+| **v1.6** | `11.*` `12.*` `13.*` | `^8.2` |
 | **v1.5** | `11.*`        | `^8.2` |
 | **v1.4** | `10.*`        | `^8.1` |
 | **v1.3** | `9.*`         | `^8.0` |
 | **v1.2** | `8.*`         | `^8.0` |
+
+> Laravel 13 requiere PHP `^8.3`;
 
 ## Simple Laravel example by using Madzipper facade
 
